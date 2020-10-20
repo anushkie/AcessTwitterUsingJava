@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="a.main" target="1.8" />
+      <module name="a.test" target="1.8" />
+      <module name="cuter.main" target="1.8" />
+      <module name="cuter.test" target="1.8" />
+      <module name="tweet-analys.main" target="1.8" />
+      <module name="tweet-analys.test" target="1.8" />
+      <module name="tweet-anau.main" target="1.8" />
+      <module name="tweet-anau.test" target="1.8" />
+      <module name="untitled.main" target="1.8" />
+      <module name="untitled.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
